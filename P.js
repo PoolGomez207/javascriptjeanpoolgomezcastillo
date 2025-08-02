@@ -7,4 +7,4 @@ var hijos=2;
 console.log("mi nombre es:"+nombre+ " , mi edad es:" +edad+ ", mi sueldo es:" +salario+"y tendr dos hijos: "+hijos);
 let masculino=true;
 let femenino=false;
-console.log("mi genero es"+ "masculino:"+ masculino +"femenino:"+ femenino);
+console.log("mi genero es"+ "masculino:"+ masculino );
